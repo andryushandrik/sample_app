@@ -1,0 +1,73 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+nai:
+  name: nai
+  email: nai@bk.ru
+  password_digest: <%= User.digest('password') %>
+
+  admin: true
+
+  archer:
+    name: Sterling Archer
+    email: duchess@example.gov
+    password_digest: <%= User.digest('password') %>
+
+  lana:
+    name: Lana Kane
+    email: hands@example.gov
+    password_digest: <%= User.digest('password') %>
+
+  malory:
+    name: Malory Archer
+    email: boss@example.gov
+    password_digest: <%= User.digest('password') %>
+
+  malory1:
+    name: Malory1 Archer
+    email: boss1@example.gov
+    password_digest: <%= User.digest('password') %>
+
+  malory2:
+    name: Malory2 Archer
+    email: boss2@example.gov
+    password_digest: <%= User.digest('password') %>
+
+  malory3:
+    name: Malory3 Archer
+    email: boss3@example.gov
+    password_digest: <%= User.digest('password') %>
+
+  malory4:
+    name: Malory4 Archer
+    email: boss4@example.gov
+    password_digest: <%= User.digest('password') %>
+
+  malory5:
+    name: Malory5 Archer
+    email: boss5@example.gov
+    password_digest: <%= User.digest('password') %>
+
+  malory6:
+    name: Malory6 Archer
+    email: boss6@example.gov
+    password_digest: <%= User.digest('password') %>
+
+  malory7:
+    name: Malory7 Archer
+    email: boss7@example.gov
+    password_digest: <%= User.digest('password') %>
+
+  malory8:
+    name: Malory8 Archer
+    email: boss8@example.gov
+    password_digest: <%= User.digest('password') %>
+
+  malory9:
+    name: Malory9 Archer
+    email: boss9@example.gov
+    password_digest: <%= User.digest('password') %>
+
+  malory10:
+    name: Malory10 Archer
+    email: boss10@example.gov
+    password_digest: <%= User.digest('password') %>

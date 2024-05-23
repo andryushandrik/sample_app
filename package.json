@@ -2,5 +2,7 @@
   "name": "sample_app",
   "version": "1.0.0",
   "dependencies": {
+    "@hotwired/stimulus": "^3.2.2",
+    "controllers": "^0.0.2"
   }
 }
